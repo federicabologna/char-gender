@@ -26,3 +26,13 @@ Repository for "[Causal Effect of Character Gender on Readers' Preferences](http
   - Reading comprehension check responses
   - Open-ended explanations for story choices
 
+### Figures
+- **figures/pihats.png** - Probability plots showing reader preferences by protagonist gender
+  - Visualizes the probability of choosing each story by treatment condition
+  - Displays results across different demographic subgroups
+
+- **figures/cate.png** - Conditional average treatment effect (CATE) estimates
+  - Shows the estimated causal effect of protagonist gender on reader preferences
+  - Includes confidence intervals from bootstrap analysis
+  - Breaks down effects by reader demographics
+
